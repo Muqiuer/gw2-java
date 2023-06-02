@@ -1,5 +1,5 @@
 # gw2-java
-利用spring框架以及java swing，制作的一个模拟激战2女祭司抽卡的模拟系统
+利用spring框架以及java swing，制作的一个模拟激战2女祭司抽卡的模拟系统<br>
 ![image](https://github.com/Muqiuer/gw2-java/assets/95432047/33458bbe-bc45-4c1d-9c43-da415f2464ab)
 链接数据库保存了相关的登录功能<br>
 ![image](https://github.com/Muqiuer/gw2-java/assets/95432047/9c1d3e59-ddb9-43e2-a49d-ec86c89ce235)
